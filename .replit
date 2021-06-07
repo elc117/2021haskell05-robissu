@@ -1,0 +1,2 @@
+language = "haskell"
+run = "haskell05.hs"
